@@ -127,3 +127,8 @@ Consider actors with strong engagement metrics for global appeal.
 Use historical ratings and votes as key decision-support metrics.
 
 Adopt data-driven planning for content and casting strategies.
+
+Note: The Excel workbook is shared in a protected, read-only format to preserve
+data integrity. All sheets and workbook structure are protected to prevent
+accidental modification, while allowing full visibility for review.
+
