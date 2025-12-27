@@ -118,6 +118,10 @@ The analysis was conducted in structured segments:
 data integrity. All sheets and workbook structure are protected to prevent accidental
 modification, while allowing full visibility for review.
 
+Note: Due to file size and format, Excel files may not preview directly on GitHub.
+Please download to view.
+
+
 ---
 
 ## Outcome & Skills Demonstrated
